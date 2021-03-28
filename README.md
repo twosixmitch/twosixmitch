@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twosixmitch
+👋 Hi, I’m @twosixmitch
 
 <!---
 twosixmitch/twosixmitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
